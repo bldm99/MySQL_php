@@ -1,0 +1,28 @@
+
+body{
+    background: rgb(191, 179, 222);
+}
+.en{
+    width: 24%;
+    height: 30px;
+}
+
+.for{
+    
+    text-align: center;
+    padding: 54px;
+}
+h1{
+    color: aliceblue;
+}
+
+
+.bt{  
+    background: rgb(47, 166, 235);
+    color: rgb(255, 255, 255);
+    width: 12%;
+    height: 45px;
+    font-size: 18px;
+    border-radius: 5px; 
+    text-align: center;
+}
